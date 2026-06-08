@@ -1,5 +1,5 @@
 // index.ts — Latin syntaxis bundle, compiled and ready to use.
-import { load } from "@561-group/panini/bundle";
+import { load } from "@561-group/language-parsing/bundle";
 import { rawBundle } from "./bundle.ts";
 
 export { rawBundle } from "./bundle.ts";
