@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { articulate, parse, roles, tag } from "@561-group/language-parsing";
-import bundle from "./index.ts";
+import bundle from "./index.mjs";
 
 function firstParse(text: string) {
   const base = articulate(text, bundle);
