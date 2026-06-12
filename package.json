@@ -1,12 +1,12 @@
 {
-  "name": "@561-group/language-parsing-latin",
+  "name": "@561-group/latin-language-topology",
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "description": "language-parsing-latin: Latin as a language-parsing fiber-algebra bundle; free word order, role by case, and no articles.",
+  "description": "latin-language-topology: Latin as a language-topology fiber-algebra bundle; free word order, role by case, and no articles.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emsenn/language-parsing-latin.git"
+    "url": "git+https://github.com/emsenn/latin-language-topology.git"
   },
   "engines": {
     "node": ">=22.18"
@@ -38,7 +38,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@561-group/language-parsing": "workspace:*"
+    "@561-group/language-topology": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

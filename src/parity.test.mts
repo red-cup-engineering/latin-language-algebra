@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { articulate, parse, roles, tag } from "@561-group/language-parsing";
+import { articulate, parse, roles, tag } from "@561-group/language-topology";
 import bundle from "./index.mjs";
 
 function firstParse(text: string) {
