@@ -3,7 +3,7 @@
 // The roleBy: "case" flag documents this; attachment directions are inert.
 // No articles: Latin has none. Case endings are the strongest proof that
 // word order is merely a parameter.
-import type { RawBundle } from "@561-group/language-topology/types";
+import type { RawBundle } from "@emsenn/language-algebra";
 
 export const rawBundle: RawBundle = {
   meta: {

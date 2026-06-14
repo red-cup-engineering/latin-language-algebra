@@ -1,12 +1,12 @@
 {
-  "name": "@561-group/latin-language-topology",
+  "name": "@emsenn/latin-language-algebra",
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "description": "latin-language-topology: Latin as a language-topology fiber-algebra bundle; free word order, role by case, and no articles.",
+  "description": "latin-language: Latin as a language fiber — its lexicon, morphology, reference, attachment and segmentation tables, compiled and ready for the settlement engine.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emsenn/latin-language-topology.git"
+    "url": "git+https://github.com/emsenn/latin-language.git"
   },
   "engines": {
     "node": ">=22.18"
@@ -38,7 +38,10 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@561-group/language-topology": "workspace:*"
+    "@emsenn/language-algebra": "workspace:*",
+    "@emsenn/language-topology": "workspace:*",
+    "@emsenn/language-codecs": "workspace:*",
+    "@emsenn/language-analysis": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
