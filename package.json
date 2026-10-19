@@ -2,10 +2,10 @@
   "name": "@lenticule-science/latin-language-algebra",
   "version": "0.1.6",
   "type": "module",
-  "description": "latin-language-algebra: Latin as a language fiber \u2014 its lexicon, morphology, reference, attachment and segmentation tables \u2014 presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-services-section.",
+  "description": "latin-language-algebra: Latin as a language fiber — its lexicon, morphology, reference, attachment and segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-services-section.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lenticule-science/latin-language.git"
+    "url": "git+https://github.com/red-cup-engineering/latin-language-algebra.git"
   },
   "engines": {
     "node": ">=22.18"
