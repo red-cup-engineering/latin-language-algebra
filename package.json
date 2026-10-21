@@ -38,6 +38,10 @@
     "src/tag.mjs"
   ],
   "sideEffects": false,
-  "license": "UNLICENSED",
-  "private": false
+  "license": "MIT",
+  "private": false,
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
