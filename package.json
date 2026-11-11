@@ -1,6 +1,6 @@
 {
   "name": "@lenticule-science/latin-language-algebra",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "type": "module",
   "description": "latin-language-algebra: Latin as a language fiber — its lexicon, morphology, reference, attachment and segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-science-services-section.",
   "repository": {
