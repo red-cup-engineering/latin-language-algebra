@@ -1,0 +1,43 @@
+{
+  "name": "@lenticule-science/latin-language-algebra",
+  "version": "0.1.10-dev.0",
+  "type": "module",
+  "description": "latin-language-algebra: Latin as a language fiber — its lexicon, morphology, reference, attachment and segmentation tables — presented as a live, discoverable, directly contractable micro-enterprise (a die) of linguistics-science-services-section.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/latin-language-algebra.git"
+  },
+  "engines": {
+    "node": ">=22.18"
+  },
+  "bin": {
+    "solicit-service": "./src/latin-die.mjs",
+    "invoke-service": "./src/latin-die.mjs"
+  },
+  "main": "./src/bundle.mjs",
+  "exports": {
+    ".": "./src/bundle.mjs",
+    "./bundle": "./src/bundle.mjs",
+    "./tag": "./src/tag.mjs",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@red-cup-engineering/computer-code-engineering-services-section": "^0.2.1",
+    "@red-cup-engineering/communicating": "^0.3.1",
+    "@red-cup-engineering/computer-language-systems-engineering-services-section": "^0.1.8",
+    "@red-cup-engineering/activitypub-engineering-services-section": "^0.11.6"
+  },
+  "files": [
+    "content",
+    "src/bundle.mjs",
+    "src/latin-die.mjs",
+    "src/tag.mjs"
+  ],
+  "sideEffects": false,
+  "license": "MIT",
+  "private": false,
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
